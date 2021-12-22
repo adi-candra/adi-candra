@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adi-candra
 - 👀 I’m interested in programing and DIY electronic
-- 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, C++, C# language
+- 💞️ I’m looking to collaborate on...
+- 📫 How to reach me ? ->> just email me mangatok818@gmail.com
 
 <!---
 adi-candra/adi-candra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
